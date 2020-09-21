@@ -5,7 +5,6 @@
  */
 package Class;
 
-// TODO: Auto-generated Javadoc
 /**
  * The Class MyApp.
  */
